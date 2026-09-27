@@ -1,0 +1,31 @@
+dataset,comparison,mean diff (first - second),cohen's d,p-value,significant
+Letter prediction,sasla vs passive,0.0038,0.3,0.2135,False
+Letter prediction,alus vs passive,-0.0005,-0.03,0.9219,False
+Letter prediction,random vs passive,-0.035,-1.05,0.0195,False
+Letter prediction,alus vs random,0.0345,1.23,0.002,True
+Letter prediction,sasla vs alus,0.0043,0.21,0.859,False
+Bank Marketing,sasla vs passive,-0.0014,-0.03,0.7532,False
+Bank Marketing,alus vs passive,-0.0145,-0.24,0.327,False
+Bank Marketing,random vs passive,-0.0333,-0.44,0.3139,False
+Bank Marketing,alus vs random,0.0188,0.19,0.4413,False
+Bank Marketing,sasla vs alus,0.0131,0.2,0.6002,False
+Bankruptcy prediction,sasla vs passive,-0.0316,-0.42,0.3105,False
+Bankruptcy prediction,alus vs passive,-0.0472,-0.61,0.0796,False
+Bankruptcy prediction,random vs passive,-0.0625,-0.84,0.0277,False
+Bankruptcy prediction,alus vs random,0.0153,0.13,0.499,False
+Bankruptcy prediction,sasla vs alus,0.0156,0.14,0.8927,False
+Crime,sasla vs passive,-0.0003,-0.03,1.0,False
+Crime,alus vs passive,-0.0112,-0.65,0.084,False
+Crime,random vs passive,-0.015,-0.91,0.0195,False
+Crime,alus vs random,0.0038,0.27,1.0,False
+Crime,sasla vs alus,0.0109,1.12,0.0137,False
+Football Salary,sasla vs passive,0.0107,0.14,0.8457,False
+Football Salary,alus vs passive,-0.0009,-0.01,0.8457,False
+Football Salary,random vs passive,-0.0213,-0.24,1.0,False
+Football Salary,alus vs random,0.0204,0.24,0.6953,False
+Football Salary,sasla vs alus,0.0117,0.15,0.9219,False
+Medical Insurance,sasla vs passive,-0.0002,-0.06,0.9219,False
+Medical Insurance,alus vs passive,-0.002,-0.25,0.4922,False
+Medical Insurance,random vs passive,-0.0083,-1.13,0.0098,True
+Medical Insurance,alus vs random,0.0063,0.67,0.084,False
+Medical Insurance,sasla vs alus,0.0017,0.24,0.2324,False
